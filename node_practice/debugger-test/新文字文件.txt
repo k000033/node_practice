@@ -1,0 +1,7 @@
+vscode debug
+
+1. 偵錯
+
+2. 選 node.js
+
+3. 選 Run current File
