@@ -1,0 +1,21 @@
+git remote add origin https://github.com/k000033/node_practice.git
+
+
+
+
+ 1.下載安裝 https://nodejs.org/en/
+    -- node -v 檢查版本 
+    -- npm -v 檢查版本  
+ 
+ 2.github 中搜尋 nvm-windows 有下載地址
+ 
+ 3.使用 nvm
+   -- nvm list 查看當前所有 node版本
+   -- nvm install v10.13.0 安裝指定版本
+   -- nvm nvm use --delete-prefix 10.13.0 切換版本
+
+  
+ 4.開新資料夾 安裝 lodash
+   -- npm i lodash --save
+
+  
